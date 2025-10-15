@@ -24,7 +24,4 @@ A full-stack web application designed to simplify and automate core administrati
 | Backend   | Node.js + Express.js |
 | Database  | MongoDB (Mongoose) |
 
----
-
-## 📂 Folder Structure
 
